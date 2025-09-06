@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "kosha-api": {
+      "command": "node",
+      "args": ["index.js"],
+      "cwd": ".",
+      "description": "안전보건공단 스마트검색 API 도구"
+    }
+  }
+}
